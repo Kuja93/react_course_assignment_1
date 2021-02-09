@@ -6,6 +6,8 @@ const UserInput = (props) => {
             <input
                 type="text"
                 onChange={props.onInputChange}
+                value={props.currentName}
+                className={"userInput"}
             />
         </div>
     )
