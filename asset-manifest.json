@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_tutorial_metronome/static/css/main.8757c483.chunk.css",
+    "main.js": "/react_tutorial_metronome/static/js/main.e4ef1c34.chunk.js",
+    "main.js.map": "/react_tutorial_metronome/static/js/main.e4ef1c34.chunk.js.map",
+    "runtime-main.js": "/react_tutorial_metronome/static/js/runtime-main.12400a05.js",
+    "runtime-main.js.map": "/react_tutorial_metronome/static/js/runtime-main.12400a05.js.map",
+    "static/js/2.21ff7014.chunk.js": "/react_tutorial_metronome/static/js/2.21ff7014.chunk.js",
+    "static/js/2.21ff7014.chunk.js.map": "/react_tutorial_metronome/static/js/2.21ff7014.chunk.js.map",
+    "index.html": "/react_tutorial_metronome/index.html",
+    "static/css/main.8757c483.chunk.css.map": "/react_tutorial_metronome/static/css/main.8757c483.chunk.css.map",
+    "static/js/2.21ff7014.chunk.js.LICENSE.txt": "/react_tutorial_metronome/static/js/2.21ff7014.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12400a05.js",
+    "static/js/2.21ff7014.chunk.js",
+    "static/css/main.8757c483.chunk.css",
+    "static/js/main.e4ef1c34.chunk.js"
+  ]
+}
